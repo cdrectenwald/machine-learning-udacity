@@ -1,0 +1,1 @@
+Unfortunately, the program did not provide a proejct description. The objective of this project is to use convolutional neural networks to help recognize dog breeds. 
